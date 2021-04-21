@@ -1,0 +1,55 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+h1, h2 {
+  padding: 30px;
+}
+
+
+#container {
+  width: 970px;
+  display: flex;
+}
+
+
+#box {
+  width: 420px;
+}
+
+
+form{
+  display: inline-block;
+  margin-left: 5%; 
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+
+select {
+  margin: 20px;
+  padding: 5px;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+
+button {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  box-shadow: 5px 10px;
+  margin: 20px;
+}
